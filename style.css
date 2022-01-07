@@ -8,9 +8,10 @@ p{
     text-decoration: none;
     background-image:linear-gradient(rgb(235, 45, 12),rgb(226, 131, 146)) ;
     margin-top:5px;
-    padding: 15px;
+    padding: 5px 15px;
     border-radius: 5px;
     color: whitesmoke;
+    font-size: medium;
 }
 section{
     display: flex;
@@ -38,5 +39,25 @@ section{
 #miss{
     text-align: center;
     color: rgb(80, 7, 80);
-    font-size: 30px;
+    font-size: 40px;
+    margin: 0px;
+}
+.destrination{
+    background-color: rgb(238, 250, 233);
+    border-radius: 10px;
+    padding: 50px;
+}
+.vission{
+    background-color: rgb(219, 217, 248);
+    border-radius: 10px;
+    padding: 50px;
+}
+.goal{
+    background-color: rgb(250, 214, 219);
+    border-radius: 10px;
+    padding: 50px;
+}
+.mission-vission-goal{
+    padding: 30px;
+    margin: 0px;
 }
