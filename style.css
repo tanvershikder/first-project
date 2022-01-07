@@ -1,0 +1,42 @@
+p{
+    font-size: 20px;
+}
+.mission{
+    color: coral;
+}
+.next-button{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(235, 45, 12),rgb(226, 131, 146)) ;
+    margin-top:5px;
+    padding: 15px;
+    border-radius: 5px;
+    color: whitesmoke;
+}
+section{
+    display: flex;
+    padding: 50px;
+    margin-left: 30px;
+    font-size: 15px;
+}
+.about{
+    width: 50%;
+    padding: 10px;
+    margin: 30px;
+}
+.about img{
+    width: 70%;
+}
+#my-miss{
+    border-left:3px solid ;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    margin-right:2px ;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 50px;
+}
+#miss{
+    text-align: center;
+    color: rgb(80, 7, 80);
+    font-size: 30px;
+}
